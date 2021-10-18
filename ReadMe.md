@@ -1,1 +1,1 @@
-Deployment Dateien für dei Bachelorarbeit
+Deployment Dateien für die Bachelorarbeit
