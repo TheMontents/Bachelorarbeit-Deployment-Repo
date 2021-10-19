@@ -3,8 +3,8 @@ kind: Service
 metadata:
   name: todobackend
 spec:
-  type: ClusterIP
+  type: LoadBalancer
   ports:
-  - port: 8080
+  - port: 8081
   selector:
     app: todobackend
